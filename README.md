@@ -44,13 +44,12 @@ Buat program yang mendeklarasikan array, mengisi array dengan nilai, dan menampi
    git clone https://github.com/[irgantaraa]/ujian-java-fundamental.git
 
 2. Masuk ke direktori project
+   ```bash
    cd ujian-java-fundamental
 
-3. Build project menggunakan Maven.
+3. Build project menggunakan Maven
+ ```bash
    mvn clean install
-
-4. Jalankan program
-   java -cp target/ujian-java-fundamental-1.0-SNAPSHOT.jar com.juaracoding.IAPujian1jf.ujian1.Soal1
 
 
 
