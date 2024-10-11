@@ -49,7 +49,7 @@ Buat program yang mendeklarasikan array, mengisi array dengan nilai, dan menampi
 
 3. Build project menggunakan Maven
  ```bash
-   mvn clean install
+ mvn clean install
 
 
 
